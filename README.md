@@ -1,6 +1,12 @@
 # vue-live-chat
 Visit deployed app: <https://udemy-vue-live-chat-a0236.web.app/>
 
+Try log in as Mario:
+    
+Email: mario@google.com
+
+Password: mario123 
+
 ## Project setup
 ```
 npm install
