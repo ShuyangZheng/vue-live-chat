@@ -1,4 +1,5 @@
 # vue-live-chat
+Visit deployed app: <https://udemy-vue-live-chat-a0236.web.app/>
 
 ## Project setup
 ```
